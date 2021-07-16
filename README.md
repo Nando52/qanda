@@ -2,4 +2,4 @@
 
 A question and answer website for techies.
 
-##Open to contribution
+## Open to contribution
